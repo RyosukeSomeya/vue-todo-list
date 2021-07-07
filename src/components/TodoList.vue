@@ -99,10 +99,10 @@ td {
   border-bottom: 1px solid #ccc;
 }
 .todo-id {
-  width: 5%;
+  width: 10%;
 }
 .comment-col {
-  width: 65%;
+  width: 50%;
 }
 .no-bg {
   background: none;
